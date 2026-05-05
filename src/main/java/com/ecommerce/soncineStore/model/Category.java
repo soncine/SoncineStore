@@ -1,6 +1,8 @@
 package com.ecommerce.soncineStore.model;
 
 public class Category {
+
+    //definição da lista com constructor e getter and setter
     private long categoryId;
     private String categoryName;
 
